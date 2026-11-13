@@ -33,12 +33,12 @@ HTML5, CSS3 (custom properties, Grid, Flexbox, `color-mix`), vanilla JavaScript.
 
 **Desktop**
 
-![Desktop layout](screenshots/desktop.png)
+![Desktop layout](image1.png.png)
 
 **Mobile**
 
-![Mobile hero](screenshots/mobile-hero.png)
-![Mobile menu](screenshots/mobile-menu.png)
+![Mobile hero](image2.png)
+![Mobile menu](image3.png)
 
 ## Design notes (for the 5–8 line explanation)
 1. I chose a scheduling product because its main value can be shown, not just described, so the hero is a working mini-rota instead of a stock illustration.
