@@ -31,14 +31,7 @@ HTML5, CSS3 (custom properties, Grid, Flexbox, `color-mix`), vanilla JavaScript.
 
 ## Screenshots
 
-**Desktop**
-
-![Desktop layout](image1.png.png)
-
-**Mobile**
-
-![Mobile hero](image2.png)
-![Mobile menu](image3.png)
+<p align="center"> <b>Desktop</b><br> <img src="image1.png" alt="Desktop layout" width="600"> </p> <p align="center"> <b>Mobile</b><br> <img src="image2.png" alt="Mobile hero" width="200"> &nbsp;&nbsp;&nbsp; <img src="image3.png" alt="Mobile menu" width="200"> </p>
 
 ## Design notes (for the 5–8 line explanation)
 1. I chose a scheduling product because its main value can be shown, not just described, so the hero is a working mini-rota instead of a stock illustration.
